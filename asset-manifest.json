@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Losowe-cytaty-REACT/static/css/main.5ab266f0.css",
-    "main.js": "/Losowe-cytaty-REACT/static/js/main.0df0f3fd.js",
-    "index.html": "/Losowe-cytaty-REACT/index.html",
-    "main.5ab266f0.css.map": "/Losowe-cytaty-REACT/static/css/main.5ab266f0.css.map",
-    "main.0df0f3fd.js.map": "/Losowe-cytaty-REACT/static/js/main.0df0f3fd.js.map"
+    "main.css": "/Losowe-cytaty-REACT/random-quote-app/static/css/main.5ab266f0.css",
+    "main.js": "/Losowe-cytaty-REACT/random-quote-app/static/js/main.0df0f3fd.js",
+    "index.html": "/Losowe-cytaty-REACT/random-quote-app/index.html",
+    "main.5ab266f0.css.map": "/Losowe-cytaty-REACT/random-quote-app/static/css/main.5ab266f0.css.map",
+    "main.0df0f3fd.js.map": "/Losowe-cytaty-REACT/random-quote-app/static/js/main.0df0f3fd.js.map"
   },
   "entrypoints": [
     "static/css/main.5ab266f0.css",
