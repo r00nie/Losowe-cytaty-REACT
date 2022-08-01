@@ -1,6 +1,6 @@
 import React from "react";
 import axios from 'axios';
-import { FaTwitterSquare, FaFacebook } from "react-icons/fa";
+import { FaTwitterSquare} from "react-icons/fa";
 
 import "./App.css";
 
@@ -56,8 +56,7 @@ class App extends React.Component {
                     <p id="author-p">{this.state.author !== null ? "- "+  this.state.author : " "}</ p>
                     <div className="btn-container">
                         <button className="get-quote-btn" style={btnAndAppColor} onClick={this.fetchQuote}>Get quote</button>
-                        <a href={"https://twitter.com/intent/tweet?text=${this.state.text}"} target="_blank" rel="noopener noreferrer" className="twitter-btn"><FaTwitterSquare /></a>
-                        {/* <a href={"https://graph.facebook.com/feed?message=${this.state.text}"} className="facebook-btn"><FaFacebook /></a> */}
+                        <a href={"https://twitter.com/intent/tweet?text="+ this.state.text + "    ~~ "+ this.state.author} target="_blank" rel="noopener noreferrer" className="twitter-link"><FaTwitterSquare className="twitter-btn" /></a>
                     </div>
                 </div>
             </div>

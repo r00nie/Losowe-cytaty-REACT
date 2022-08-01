@@ -9,6 +9,7 @@
     margin: 0;
     min-height: 100vh;
     padding-top: 32vh;
+    padding-bottom: 20vh;
 }
 
 
@@ -63,12 +64,12 @@ button{
     text-shadow: 1px 1px 0px black;
 }
 
-.twitter-btn{
+.twitter-link{
     margin: auto;
     color: black;
+    margin-left: 30px;
 }
 
-.facebook-btn{
-    margin: auto;
-    color: black;
+.twitter-btn{
+    font-size: 30px;
 }
