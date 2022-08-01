@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Losowe-cytaty-REACT/static/css/main.5ab266f0.css",
-    "main.js": "/Losowe-cytaty-REACT/static/js/main.0df0f3fd.js",
+    "main.css": "/Losowe-cytaty-REACT/static/css/main.477a353b.css",
+    "main.js": "/Losowe-cytaty-REACT/static/js/main.c1219a33.js",
     "index.html": "/Losowe-cytaty-REACT/index.html",
-    "main.5ab266f0.css.map": "/Losowe-cytaty-REACT/static/css/main.5ab266f0.css.map",
-    "main.0df0f3fd.js.map": "/Losowe-cytaty-REACT/static/js/main.0df0f3fd.js.map"
+    "main.477a353b.css.map": "/Losowe-cytaty-REACT/static/css/main.477a353b.css.map",
+    "main.c1219a33.js.map": "/Losowe-cytaty-REACT/static/js/main.c1219a33.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ab266f0.css",
-    "static/js/main.0df0f3fd.js"
+    "static/css/main.477a353b.css",
+    "static/js/main.c1219a33.js"
   ]
 }
